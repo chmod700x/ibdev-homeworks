@@ -95,7 +95,7 @@ db=# select * from pg_authid;
 
 ## Задание «CIS PostgreSQL Benchmarks»
 
-Изучите [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) на СУБД PostgreSQL v12, а именно `Ensure login via "host" TCP/IP Socket is configured correctly`.
+Изучите [CIS Benchmarks](https://ncp.nist.gov/checklist/1203) на СУБД CIS PostgreSQL 16 Benchmark v1.1.0, а именно `Ensure login via "host" TCP/IP Socket is configured correctly`.
 
 Пришлите в личном кабинете студента ответы на вопросы.
 1. Какие методы **не рекомендуется** использовать для удалённых подключений?
